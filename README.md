@@ -12,8 +12,13 @@ Methodology
 5. Predict the factors that significantly influence customer churn.
    
 Conclusion
+
 1.Over the next 10 months, there will be a significant reduction in customers due to churn
+
 2. The business strategy to reduce churn based on this analysis could include:
+   
 •Optimizing Products 1 and 2 and promoting them to customers, as well as expanding their reach in each country.
+
 •Reevaluating Products 3 and 4 to identify potential issues related to relevance, which may be making them less appealing to customers.
+
 •Enhancing the analysis of product usage reviews, particularly for products 3 and 4, to gain further insights into customer preferences and improve these products.
